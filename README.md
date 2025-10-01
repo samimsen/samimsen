@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Samim 👋
 
-<!--
-**samimsen/samimsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎨 **Frontend Developer**  
+- 💻 Skills: **HTML | CSS | JavaScript | React**  
+- 🌱 Currently improving my **React** skills  
+- 🎯 Focused on **career growth and clean code**  
 
-Here are some ideas to get you started:
+## ☕ Beyond Coding
+- 🎵 Music lover & coffee enthusiast  
+- Always learning, always creating  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- ✉️ Email: **samimsen@outlook.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samimsen/)  
+
+---
+✨ *“Turning coffee into code, and music into motivation.”*  
