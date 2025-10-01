@@ -13,6 +13,3 @@
 ## 📫 Connect with Me
 - ✉️ Email: **samimsen@outlook.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samimsen/)  
-
----
-✨ *“Turning coffee into code, and music into motivation.”*  
